@@ -24,7 +24,8 @@ class Migration extends AbstractMigration
      *
      * @param DbUserConfig|null $config
      */
-    public function init(DbUserConfig $config = null) {
+    public function init(DbUserConfig $config = null)
+    {
         if ($config === null) {
             $config = new DbUserConfig();
         }
