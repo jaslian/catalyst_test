@@ -6,7 +6,8 @@ namespace App\Import;
  * Class User
  * @package App\Import
  */
-class User {
+class User
+{
     /**
      * @var string First name.
      */
