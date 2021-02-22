@@ -94,7 +94,7 @@ The `--dry-run` option can be used to test the script execution.
 If this option is present, it won't update any data in the DB,
 however, it will execute all the other functions.
 
-`php user_upload.php --dry-run --create-table -uroot -proot -t127.0.0.1`
+`php user_upload.php --dry-run --create_table -uroot -proot -t127.0.0.1`
 `php user_upload.php --dry-run -fusers.csv -uroot -proot -t127.0.0.1`
 
 ## Running the console program using docker image
