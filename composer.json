@@ -1,7 +1,7 @@
 {
     "name": "jaslian/userupload",
     "description": "A console program that import CSV user data to the DB.",
-    "version": "0.8.1",
+    "version": "0.9.0",
     "authors": [
         {
             "name": "Jason Lian",
