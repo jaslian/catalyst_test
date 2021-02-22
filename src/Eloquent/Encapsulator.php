@@ -29,7 +29,8 @@ class Encapsulator
      * @param DbUserConfig $config
      * @return Capsule
      */
-    public static function init(DbUserConfig $config): Capsule {
+    public static function init(DbUserConfig $config): Capsule
+    {
         $host = $config->getHost();
         $user = $config->getUsername();
         $password = $config->getPassword();

@@ -3,3 +3,4 @@ docker/
 mysql/
 vendor/
 users.csv
+.idea/
