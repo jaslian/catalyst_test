@@ -1,5 +1,6 @@
-config/
 docker/
 mysql/
 vendor/
 users.csv
+.idea/
+.php_cs.cache
