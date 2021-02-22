@@ -168,7 +168,7 @@ https://www.conventionalcommits.org/en/v1.0.0/
 
 ## TODOs
 
-- [ ] Update tests
+- [ ] Update tests - initial commit for tests is in `develop` branch
 - [ ] Use `.env` to replace config file  
 - [ ] Enforce Conventional Commits using Git hooks
 - [ ] Implement Github CI/CD using Github actions
