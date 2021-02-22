@@ -165,3 +165,10 @@ This will add dummy data to the users table for testing purpose.
 This project is following git conventional commit:
 
 https://www.conventionalcommits.org/en/v1.0.0/
+
+## TODOs
+
+- [ ] Update tests
+- [ ] Use `.env` to replace config file  
+- [ ] Enforce Conventional Commits using Git hooks
+- [ ] Implement Github CI/CD using Github actions
